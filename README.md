@@ -1,6 +1,6 @@
 # websurfer-gatewayapi
 
-A proof of concept for a script that does Google searches.
+A proof of concept for a script that does Google searches while avoiding rate limitations.
 
 ## Setup
 
