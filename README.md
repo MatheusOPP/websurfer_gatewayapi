@@ -37,15 +37,15 @@ AWS_ACCESS_KEY_SECRET="your-api-key-secret-here"
 
 Simply edit the ``keywords`` variable in the ``websurfer_apigateway.py`` with your search terms and then run it in your terminal of choice:
 
-``
+```
 python websurfer_apigateway.py
-``
+```
 
 The script will output all the URLs for each of the search terms as lists. In my case, for example, using 'joe biden' as the only search term, I got this output:
 
-``
+```
 ['https://www.whitehouse.gov/administration/president-biden/', 'https://joebiden.com/', 'https://en.wikipedia.org/wiki/Joe_Biden', 'https://www.instagram.com/joebiden/?hl=en', 'https://www.facebook.com/joebiden/', 'https://apnews.com/hub/joe-biden', 'https://twitter.com/POTUS', 'https://www.cnn.com/politics/joe-biden', 'https://thehill.com/people/joe-biden/', 'https://www.instagram.com/potus/?hl=en']
-``
+```
 
 
 P.S.: For the people in the SPAR project led by Aidan O'Gara, contact me directly and I may be able to share my own key with you.
