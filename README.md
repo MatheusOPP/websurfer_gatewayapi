@@ -1,4 +1,4 @@
-# websurfer-apitgateway
+# websurfer-gatewayapi
 
 A proof of concept for a script that does Google searches.
 
